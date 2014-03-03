@@ -8,5 +8,7 @@ public class TestClass1 {
     for(String token : args) {
       System.out.println("--> " + token);
     }
+    
+    System.out.println("Finished successfully :)");
   }
 }
