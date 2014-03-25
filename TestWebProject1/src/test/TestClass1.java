@@ -6,7 +6,7 @@ public class TestClass1 {
   	System.out.println("Starting...");
   	
     for(String token : args) {
-      System.out.println("--> " + token);
+      System.out.println("---> " + token);
     }
     
     System.out.println("Finished successfully :)");
